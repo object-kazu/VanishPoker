@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="11G63b" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="KSResults" representedClassName="KSResults" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="mode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="playTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="remainCards" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="score" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="times_F" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="times_Four" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="times_LSF" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="times_P" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="times_PF" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="times_S" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="times_SF" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="KSResults" positionX="-54" positionY="-9" width="128" height="225"/>
+    </elements>
+</model>
